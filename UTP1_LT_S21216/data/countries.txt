@@ -1,0 +1,246 @@
+Name	Capital	Population	ISO	Flag
+Andorra	Andorra la Vella	77006	AD	AD.png
+United Arab Emirates	Abu Dhabi	9630959	AE	AE.png
+Afghanistan	Kabul	37172386	AF	AF.png
+Antigua and Barbuda	St. John's	96286	AG	AG.png
+Anguilla	The Valley	13254	AI	AI.png
+Albania	Tirana	2866376	AL	AL.png
+Armenia	Yerevan	2951776	AM	AM.png
+Angola	Luanda	30809762	AO	AO.png
+Argentina	Buenos Aires	44494502	AR	AR.png
+American Samoa	Pago Pago	55465	AS	AS.png
+Austria	Vienna	8847037	AT	AT.png
+Australia	Canberra	24992369	AU	AU.png
+Aruba	Oranjestad	105845	AW	AW.png
+Aland Islands	Mariehamn	26711	AX	AX.png
+Azerbaijan	Baku	9942334	AZ	AZ.png
+Bosnia and Herzegovina	Sarajevo	3323929	BA	BA.png
+Barbados	Bridgetown	286641	BB	BB.png
+Bangladesh	Dhaka	161356039	BD	BD.png
+Belgium	Brussels	11422068	BE	BE.png
+Burkina Faso	Ouagadougou	19751535	BF	BF.png
+Bulgaria	Sofia	7000039	BG	BG.png
+Bahrain	Manama	1569439	BH	BH.png
+Burundi	Gitega	11175378	BI	BI.png
+Benin	Porto-Novo	11485048	BJ	BJ.png
+Saint Barthelemy	Gustavia	8450	BL	BL.png
+Bermuda	Hamilton	63968	BM	BM.png
+Brunei	Bandar Seri Begawan	428962	BN	BN.png
+Bolivia	Sucre	11353142	BO	BO.png
+Brazil	Brasilia	209469333	BR	BR.png
+Bahamas	Nassau	385640	BS	BS.png
+Bhutan	Thimphu	754394	BT	BT.png
+Botswana	Gaborone	2254126	BW	BW.png
+Belarus	Minsk	9485386	BY	BY.png
+Belize	Belmopan	383071	BZ	BZ.png
+Canada	Ottawa	37058856	CA	CA.png
+Cocos Islands	West Island	628	CC	CC.png
+Democratic Republic of the Congo	Kinshasa	84068091	CD	CD.png
+Central African Republic	Bangui	4666377	CF	CF.png
+Republic of the Congo	Brazzaville	5244363	CG	CG.png
+Switzerland	Bern	8516543	CH	CH.png
+Ivory Coast	Yamoussoukro	25069229	CI	CI.png
+Cook Islands	Avarua	21388	CK	CK.png
+Chile	Santiago	18729160	CL	CL.png
+Cameroon	Yaounde	25216237	CM	CM.png
+China	Beijing	1392730000	CN	CN.png
+Colombia	Bogota	49648685	CO	CO.png
+Costa Rica	San Jose	4999441	CR	CR.png
+Cuba	Havana	11338138	CU	CU.png
+Cabo Verde	Praia	543767	CV	CV.png
+Curacao	 Willemstad	159849	CW	CW.png
+Christmas Island	Flying Fish Cove	1500	CX	CX.png
+Cyprus	Nicosia	1189265	CY	CY.png
+Czechia	Prague	10625695	CZ	CZ.png
+Germany	Berlin	82927922	DE	DE.png
+Djibouti	Djibouti	958920	DJ	DJ.png
+Denmark	Copenhagen	5797446	DK	DK.png
+Dominica	Roseau	71625	DM	DM.png
+Dominican Republic	Santo Domingo	10627165	DO	DO.png
+Algeria	Algiers	42228429	DZ	DZ.png
+Ecuador	Quito	17084357	EC	EC.png
+Estonia	Tallinn	1320884	EE	EE.png
+Egypt	Cairo	98423595	EG	EG.png
+Western Sahara	El-Aaiun	273008	EH	EH.png
+Eritrea	Asmara	0	ER	ER.png
+Spain	Madrid	46723749	ES	ES.png
+Ethiopia	Addis Ababa	109224559	ET	ET.png
+Finland	Helsinki	5518050	FI	FI.png
+Fiji	Suva	883483	FJ	FJ.png
+Falkland Islands	Stanley	2638	FK	FK.png
+Micronesia	Palikir	112640	FM	FM.png
+Faroe Islands	Torshavn	48497	FO	FO.png
+France	Paris	66987244	FR	FR.png
+Gabon	Libreville	2119275	GA	GA.png
+United Kingdom	London	66488991	GB	GB.png
+Grenada	St. George's	111454	GD	GD.png
+Georgia	Tbilisi	3731000	GE	GE.png
+French Guiana	Cayenne	195506	GF	GF.png
+Guernsey	St Peter Port	65228	GG	GG.png
+Ghana	Accra	29767108	GH	GH.png
+Gibraltar	Gibraltar	33718	GI	GI.png
+Greenland	Nuuk	56025	GL	GL.png
+Gambia	Banjul	2280102	GM	GM.png
+Guinea	Conakry	12414318	GN	GN.png
+Guadeloupe	Basse-Terre	443000	GP	GP.png
+Equatorial Guinea	Malabo	1308974	GQ	GQ.png
+Greece	Athens	10727668	GR	GR.png
+South Georgia and the South Sandwich Islands	Grytviken	30	GS	GS.png
+Guatemala	Guatemala City	17247807	GT	GT.png
+Guam	Hagatna	165768	GU	GU.png
+Guinea-Bissau	Bissau	1874309	GW	GW.png
+Guyana	Georgetown	779004	GY	GY.png
+Hong Kong	Hong Kong	7451000	HK	HK.png
+Honduras	Tegucigalpa	9587522	HN	HN.png
+Croatia	Zagreb	4089400	HR	HR.png
+Haiti	Port-au-Prince	11123176	HT	HT.png
+Hungary	Budapest	9768785	HU	HU.png
+Indonesia	Jakarta	267663435	ID	ID.png
+Ireland	Dublin	4853506	IE	IE.png
+Israel	Jerusalem	8883800	IL	IL.png
+Isle of Man	Douglas	84077	IM	IM.png
+India	New Delhi	1352617328	IN	IN.png
+British Indian Ocean Territory	Diego Garcia	4000	IO	IO.png
+Iraq	Baghdad	38433600	IQ	IQ.png
+Iran	Tehran	81800269	IR	IR.png
+Iceland	Reykjavik	353574	IS	IS.png
+Italy	Rome	60431283	IT	IT.png
+Jersey	Saint Helier	90812	JE	JE.png
+Jamaica	Kingston	2934855	JM	JM.png
+Jordan	Amman	9956011	JO	JO.png
+Japan	Tokyo	126529100	JP	JP.png
+Kenya	Nairobi	51393010	KE	KE.png
+Kyrgyzstan	Bishkek	6315800	KG	KG.png
+Cambodia	Phnom Penh	16249798	KH	KH.png
+Kiribati	Tarawa	115847	KI	KI.png
+Comoros	Moroni	832322	KM	KM.png
+Saint Kitts and Nevis	Basseterre	52441	KN	KN.png
+North Korea	Pyongyang	25549819	KP	KP.png
+South Korea	Seoul	51635256	KR	KR.png
+Kosovo	Pristina	1845300	XK	XK.png
+Kuwait	Kuwait City	4137309	KW	KW.png
+Cayman Islands	George Town	64174	KY	KY.png
+Kazakhstan	Nur-Sultan	18276499	KZ	KZ.png
+Laos	Vientiane	7061507	LA	LA.png
+Lebanon	Beirut	6848925	LB	LB.png
+Saint Lucia	Castries	181889	LC	LC.png
+Liechtenstein	Vaduz	37910	LI	LI.png
+Sri Lanka	Colombo	21670000	LK	LK.png
+Liberia	Monrovia	4818977	LR	LR.png
+Lesotho	Maseru	2108132	LS	LS.png
+Lithuania	Vilnius	2789533	LT	LT.png
+Luxembourg	Luxembourg	607728	LU	LU.png
+Latvia	Riga	1926542	LV	LV.png
+Libya	Tripoli	6678567	LY	LY.png
+Morocco	Rabat	36029138	MA	MA.png
+Monaco	Monaco	38682	MC	MC.png
+Moldova	Chisinau	3545883	MD	MD.png
+Montenegro	Podgorica	622345	ME	ME.png
+Saint Martin	Marigot	37264	MF	MF.png
+Madagascar	Antananarivo	26262368	MG	MG.png
+Marshall Islands	Majuro	58413	MH	MH.png
+North Macedonia	Skopje	2082958	MK	MK.png
+Mali	Bamako	19077690	ML	ML.png
+Myanmar	Nay Pyi Taw	53708395	MM	MM.png
+Mongolia	Ulaanbaatar	3170208	MN	MN.png
+Macao	Macao	631636	MO	MO.png
+Northern Mariana Islands	Saipan	56882	MP	MP.png
+Martinique	Fort-de-France	432900	MQ	MQ.png
+Mauritania	Nouakchott	4403319	MR	MR.png
+Montserrat	Plymouth	9341	MS	MS.png
+Malta	Valletta	483530	MT	MT.png
+Mauritius	Port Louis	1265303	MU	MU.png
+Maldives	Male	515696	MV	MV.png
+Malawi	Lilongwe	17563749	MW	MW.png
+Mexico	Mexico City	126190788	MX	MX.png
+Malaysia	Kuala Lumpur	31528585	MY	MY.png
+Mozambique	Maputo	29495962	MZ	MZ.png
+Namibia	Windhoek	2448255	NA	NA.png
+New Caledonia	Noumea	284060	NC	NC.png
+Niger	Niamey	22442948	NE	NE.png
+Norfolk Island	Kingston	1828	NF	NF.png
+Nigeria	Abuja	195874740	NG	NG.png
+Nicaragua	Managua	6465513	NI	NI.png
+Netherlands	Amsterdam	17231017	NL	NL.png
+Norway	Oslo	5314336	NO	NO.png
+Nepal	Kathmandu	28087871	NP	NP.png
+Nauru	Yaren	12704	NR	NR.png
+Niue	Alofi	2166	NU	NU.png
+New Zealand	Wellington	4885500	NZ	NZ.png
+Oman	Muscat	4829483	OM	OM.png
+Panama	Panama City	4176873	PA	PA.png
+Peru	Lima	31989256	PE	PE.png
+French Polynesia	Papeete	277679	PF	PF.png
+Papua New Guinea	Port Moresby	8606316	PG	PG.png
+Philippines	Manila	106651922	PH	PH.png
+Pakistan	Islamabad	212215030	PK	PK.png
+Poland	Warsaw	37978548	PL	PL.png
+Saint Pierre and Miquelon	Saint-Pierre	7012	PM	PM.png
+Pitcairn	Adamstown	46	PN	PN.png
+Puerto Rico	San Juan	3195153	PR	PR.png
+Palestinian Territory	East Jerusalem	4569087	PS	PS.png
+Portugal	Lisbon	10281762	PT	PT.png
+Palau	Melekeok	17907	PW	PW.png
+Paraguay	Asuncion	6956071	PY	PY.png
+Qatar	Doha	2781677	QA	QA.png
+Reunion	Saint-Denis	776948	RE	RE.png
+Romania	Bucharest	19473936	RO	RO.png
+Serbia	Belgrade	6982084	RS	RS.png
+Russia	Moscow	144478050	RU	RU.png
+Rwanda	Kigali	12301939	RW	RW.png
+Saudi Arabia	Riyadh	33699947	SA	SA.png
+Solomon Islands	Honiara	652858	SB	SB.png
+Seychelles	Victoria	96762	SC	SC.png
+Sudan	Khartoum	41801533	SD	SD.png
+South Sudan	Juba	8260490	SS	SS.png
+Sweden	Stockholm	10183175	SE	SE.png
+Singapore	Singapore	5638676	SG	SG.png
+Saint Helena	Jamestown	7460	SH	SH.png
+Slovenia	Ljubljana	2067372	SI	SI.png
+Svalbard and Jan Mayen	Longyearbyen	2550	SJ	SJ.png
+Slovakia	Bratislava	5447011	SK	SK.png
+Sierra Leone	Freetown	7650154	SL	SL.png
+San Marino	San Marino	33785	SM	SM.png
+Senegal	Dakar	15854360	SN	SN.png
+Somalia	Mogadishu	15008154	SO	SO.png
+Suriname	Paramaribo	575991	SR	SR.png
+Sao Tome and Principe	Sao Tome	197700	ST	ST.png
+El Salvador	San Salvador	6420744	SV	SV.png
+Sint Maarten	Philipsburg	40654	SX	SX.png
+Syria	Damascus	16906283	SY	SY.png
+Eswatini	Mbabane	1136191	SZ	SZ.png
+Turks and Caicos Islands	Cockburn Town	37665	TC	TC.png
+Chad	N'Djamena	15477751	TD	TD.png
+French Southern Territories	Port-aux-Francais	140	TF	TF.png
+Togo	Lome	7889094	TG	TG.png
+Thailand	Bangkok	69428524	TH	TH.png
+Tajikistan	Dushanbe	9100837	TJ	TJ.png
+Timor Leste	Dili	1267972	TL	TL.png
+Turkmenistan	Ashgabat	5850908	TM	TM.png
+Tunisia	Tunis	11565204	TN	TN.png
+Tonga	Nuku'alofa	103197	TO	TO.png
+Turkey	Ankara	82319724	TR	TR.png
+Trinidad and Tobago	Port of Spain	1389858	TT	TT.png
+Tuvalu	Funafuti	11508	TV	TV.png
+Taiwan	Taipei	22894384	TW	TW.png
+Tanzania	Dodoma	56318348	TZ	TZ.png
+Ukraine	Kyiv	44622516	UA	UA.png
+Uganda	Kampala	42723139	UG	UG.png
+United States	Washington	327167434	US	US.png
+Uruguay	Montevideo	3449299	UY	UY.png
+Uzbekistan	Tashkent	32955400	UZ	UZ.png
+Vatican	Vatican City	921	VA	VA.png
+Saint Vincent and the Grenadines	Kingstown	110211	VC	VC.png
+Venezuela	Caracas	28870195	VE	VE.png
+British Virgin Islands	Road Town	29802	VG	VG.png
+U.S. Virgin Islands	Charlotte Amalie	106977	VI	VI.png
+Vietnam	Hanoi	95540395	VN	VN.png
+Vanuatu	Port Vila	292680	VU	VU.png
+Wallis and Futuna	Mata Utu	16025	WF	WF.png
+Samoa	Apia	196130	WS	WS.png
+Yemen	Sanaa	28498687	YE	YE.png
+Mayotte	Mamoudzou	159042	YT	YT.png
+South Africa	Pretoria	57779622	ZA	ZA.png
+Zambia	Lusaka	17351822	ZM	ZM.png
+Zimbabwe	Harare	14439018	ZW	ZW.png
+Netherlands Antilles	Willemstad	300000	AN	AN.png
